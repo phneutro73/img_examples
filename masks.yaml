@@ -4,4 +4,4 @@ test: ./test
  
 # Classes
 nc: 3  # number of classes
-names: ['con mascarilla', 'sin mascarilla', 'mascarilla mal puesta']
+names: ['con_mascarilla', 'sin_mascarilla', 'mascarilla_mal_puesta']
