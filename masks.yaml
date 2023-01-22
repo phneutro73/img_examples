@@ -1,6 +1,6 @@
-train: /content/yolov7/train
-val: /content/yolov7/val
-test: /content/yolov7/test
+train: /content/yolov7/data/train
+val: /content/yolov7/data/val
+test: /content/yolov7/data/test
  
 # Classes
 nc: 3  # number of classes
