@@ -1,7 +1,0 @@
-train: /content/yolov7/data/train
-val: /content/yolov7/data/val
-test: /content/yolov7/data/test
- 
-# Classes
-nc: 3  # number of classes
-names: ['with_mask', 'without_mask', 'mask_weared_incorrect']
